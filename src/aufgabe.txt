@@ -1,0 +1,9 @@
+- Implement button to delete all shopping list items   #
+
+- Implement functionality to manually add items to shopping list => über eine text box z.b.  #
+
+- save shopping list data in localStorage #
+
+- improve the ingredient parsing algorithm *optional
+
+- improve error handling

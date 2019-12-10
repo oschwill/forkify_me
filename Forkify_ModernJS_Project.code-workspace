@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Forkify_ModernJS_Project",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": null
+	}
+}
